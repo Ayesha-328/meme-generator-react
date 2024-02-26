@@ -93,7 +93,7 @@ background: linear-gradient(90deg, rgba(103,34,128,1) 35%, rgba(166,38,211,1) 10
     /* height: 400px; */
 }
 .meme-text{
-    width: 100%;
+    width: 90%;
     position: absolute;
     font-family: "Impact", sans-serif;
     font-size: 50px;
@@ -101,7 +101,7 @@ background: linear-gradient(90deg, rgba(103,34,128,1) 35%, rgba(166,38,211,1) 10
   font-weight: bolder;
     text-align: center;
     letter-spacing: 0px;
-    line-height: 39px;
+    line-height: 49px;
     color: white;
     text-transform: uppercase;
     -webkit-text-stroke: 1px black;
